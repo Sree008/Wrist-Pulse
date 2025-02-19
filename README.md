@@ -1,10 +1,10 @@
 # Characterization of Wrist Pulse using Machine Learning Techniques  
 
 ## 📌 Project Overview  
-This project focuses on analyzing wrist pulse data using machine learning techniques to classify individuals into **normal, diabetic, or hypertensive** categories. A prototype was developed using **Raspberry Pi and IoT technology**, allowing remote monitoring via a mobile device.  
+This project focuses on analyzing wrist pulse data using machine learning techniques to classify individuals into **normal, diabetic, or hypertensive** categories.  
 
 ## 🛠️ Technologies Used  
-- **Hardware:** Pulse sensor, Raspberry Pi  
+- **Hardware:** Pulse sensor, Raspberry Pi, Arduino UNO  
 - **Software & Libraries:** Python, NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Machine Learning Algorithms:** Random Forest, XGBoost, SVM  
 - **Signal Processing:** Feature extraction from wrist pulse data  
